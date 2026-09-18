@@ -2,4 +2,9 @@
 title: "About"
 ---
 
-About this site
+# Jennifer Owiyo
+- I am an undergrad in the College of Agriculture and Life Sciences
+- Learning R for the first time (took a statistics class but came out with no R knowledge)
+- I like watching tennis and Formula 1. 
+
+![A pretty flower!](images/IMG_2167.jpeg)

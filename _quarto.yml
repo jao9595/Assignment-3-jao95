@@ -14,8 +14,8 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: cyborg
     css: styles.css
     toc: true
 

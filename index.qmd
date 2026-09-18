@@ -2,11 +2,9 @@
 title: "Jenifer's landing page"
 ---
 
-My name: Jennifer Owiyo
-Github link: https://github.com/jao9595 
+My name is [Jennifer Owiyo](https://github.com/jao9595)
+
+My collaborator is [William Antoniades](https://github.com/Wantoniades)
 
 
-Collaborator: William Antoniades
-Github link: https://github.com/Wantoniades 
-
-
+![Welcome :)](images/images.jpg)
