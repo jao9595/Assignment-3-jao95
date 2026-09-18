@@ -1,0 +1,15 @@
+---
+editor: visual
+---
+
+## Hello! I'm collaborating with Jennifer to make a website.
+
+*Get to know me*
+
+- I'm a 3rd year PhD Student
+
+- I enjoy making fun drinks
+
+- I really want to go to Canada in December
+
+![This is a photo I took from a recent trip to Greece!](images/WAN_1290.jpg)

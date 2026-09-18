@@ -9,8 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Jenifer’s landing page",
+    "section": "",
+    "text": "My name: Jennifer Owiyo Github link: https://github.com/jao9595\nCollaborator: William Antoniades Github link: https://github.com/Wantoniades"
+  },
+  {
+    "objectID": "william.html",
+    "href": "william.html",
     "title": "Assignment-3-jao95",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Get to know me\n\nI’m a 3rd year PhD Student\nI enjoy making fun drinks\nI really want to go to Canada in December\n\n\n\n\nThis is a photo I took from a recent trip to Greece!"
+  },
+  {
+    "objectID": "william.html#hello-im-collaborating-with-jennifer-to-make-a-website.",
+    "href": "william.html#hello-im-collaborating-with-jennifer-to-make-a-website.",
+    "title": "Assignment-3-jao95",
+    "section": "",
+    "text": "Get to know me\n\nI’m a 3rd year PhD Student\nI enjoy making fun drinks\nI really want to go to Canada in December\n\n\n\n\nThis is a photo I took from a recent trip to Greece!"
   }
 ]
