@@ -1,7 +1,12 @@
 ---
-title: "Assignment-3-jao95"
+title: "Jenifer's landing page"
 ---
 
-This is a Quarto website.
+My name: Jennifer Owiyo
+Github link: https://github.com/jao9595 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Collaborator: William Antoniades
+Github link: https://github.com/Wantoniades 
+
+
